@@ -1,7 +1,6 @@
 ---
-title: "karaleier"
+title: "Kara Leier"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my website!
+I am currently a student at UBC, studying a Masters of Data Science.
