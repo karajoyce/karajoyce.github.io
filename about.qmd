@@ -1,5 +1,31 @@
 ---
-title: "About"
+title: "Resume"
+format: html
 ---
 
-About this site
+### Education
+
+> **M.S. Data Science** - Computational Linguistics, *University of British Columbia*<br>
+> Aug. 2025 - Jun. 2026
+<br><br>
+> **B.A. Honours** - Linguistics, *University of Saskatchewan*<br>
+> Grade: High Honours <br>
+> Sept. 2020 - Jun. 2025
+<br><br>
+> **B.Sc. 3yr - Computer Science **, *University of Saskatchewan*<br>
+> Grade: Great Distinction <br>
+> Sept. 2020 - Jun. 2025
+
+### Projects
+
+> **Personal Website** <br>
+> Tools used: Quarto, Github Pages, HTML, Quarto Markdown, Github
+<br><br>
+> **Linguistics Honours Project / Undergraduate Thesis** <br>
+> Research topic: The effect of computational semantic vectors compared to manual classification of Dënesųłı̨né , and how it compares over different parts of speech. <br>
+> Completed at the University of Saskatchewan under Dr. Olga Lovick <br>
+> Tools used: word2vec, WordNet, python, excel
+<br><br>
+> **Recall Note-taking App** <br>
+> Done within a group project class at UofS (CMPT370). Features include: auto-flashcards, priority to-do list, motivational messages, game-ification of tasks.<br>
+> Tools used: JavaFX, Git, Agile, Java, CSS

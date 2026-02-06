@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "Kara Leier",
     "section": "",
-    "text": "Welcome to my website! I am currently a student at UBC, studying a Masters of Data Science."
+    "text": "About\nI am graduate student at the University of British Columbia. My program, Master of Data Science (Computational Linguistics), focuses on industry-forward topics in machine learning, statistics, and computational linguistics. I completed an Honour’s Project during my bachelor’s degree which allowed me to explore computational linguistics and low resource languages in a research setting.\nIn my graduate studies, I am focusing on the combination of my two undergraduate degrees, with an added focus on data. In the future, I hope to continue to bring a focus of language data into my career.\nContact me:  kjl@sasktel.net  LinkedIn"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Resume",
     "section": "",
-    "text": "About this site"
+    "text": "Education\n\nM.S. Data Science - Computational Linguistics, University of British Columbia Aug. 2025 - Jun. 2026  B.A. Honours - Linguistics, University of Saskatchewan Grade: High Honours  Sept. 2020 - Jun. 2025  B.Sc. 3yr - Computer Science , University of Saskatchewan Grade: Great Distinction  Sept. 2020 - Jun. 2025\n\n\n\nProjects\n\nPersonal Website  Tools used: Quarto, Github Pages, HTML, Quarto Markdown, Github  Linguistics Honours Project / Undergraduate Thesis  Research topic: The effect of computational semantic vectors compared to manual classification of Dënesųłı̨né , and how it compares over different parts of speech.  Completed at the University of Saskatchewan under Dr. Olga Lovick  Tools used: word2vec, WordNet, python, excel  Recall Note-taking App  Done within a group project class at UofS (CMPT370). Features include: auto-flashcards, priority to-do list, motivational messages, game-ification of tasks. Tools used: JavaFX, Git, Agile, Java, CSS"
   }
 ]

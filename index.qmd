@@ -1,6 +1,15 @@
 ---
 title: "Kara Leier"
+format: html
 ---
+<img src="me.jpg" alt="Headshot" width="200"/><br>
 
-Welcome to my website!
-I am currently a student at UBC, studying a Masters of Data Science.
+### About
+
+I am graduate student at the University of British Columbia. My program, Master of Data Science (Computational Linguistics), focuses on industry-forward topics in machine learning, statistics, and computational linguistics. I completed an Honour's Project during my bachelor's degree which allowed me to explore computational linguistics and low resource languages in a research setting. 
+
+In my graduate studies, I am focusing on the combination of my two undergraduate degrees, with an added focus on data. In the future, I hope to continue to bring a focus of language data into my career.
+
+Contact me: <br>
+[kjl@sasktel.net](mailto:kjl@sasktel.net) <br>
+[LinkedIn](https://linkedin.com/in/kara-joyce-leier)<br>
