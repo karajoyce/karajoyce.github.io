@@ -1,23 +1,52 @@
 ---
-title: "Resume"
+title: "CV"
 format: html
 ---
 
 ### Education
 
-> **M.S. Data Science** - Computational Linguistics, *University of British Columbia*<br>
-> Aug. 2025 - Jun. 2026
-<br><br>
-> **B.A. Honours** - Linguistics, *University of Saskatchewan*<br>
-> Grade: High Honours <br>
+> **Master of Data Science** Computational Linguistics, *University of British Columbia*<br>
+> Grade: 4.33/4.33 <br>
+> Aug. 2025 - Nov. 2026
+<br>
+> **B.A. Honours** Linguistics, *University of Saskatchewan*<br>
+> Grade: 4.0/4.0 <br>
 > Sept. 2020 - Jun. 2025
-<br><br>
-> **B.Sc. 3yr - Computer Science **, *University of Saskatchewan*<br>
-> Grade: Great Distinction <br>
+<br>
+> **B.Sc. 3yr** Computer Science, *University of Saskatchewan*<br>
+> Grade: 4.0/4.0 <br>
 > Sept. 2020 - Jun. 2025
+
+### Publications
+
+>**(Accepted with revisions, unpublished)** Leier, K (2026). Semantic Classification in Dënesųłıné: A Comparative Study of Manual and Computational Methods. USURJ, Volume (Issue), Page range.
+
+### Work Experience
+
+> **Research Analyst** - Vaccine and Infectious Disease Organization (VIDO) <br>
+> July 2026 - present
+<br>
+> **Technical Assistant** - Natural Resources Canada <br>
+> July 2025 - August 2025 (two month contract)
+<br>
+> **Research Assistant** - University of Saskatchewan, College of Arts and Science, Department of Linguistics <br>
+> July 2024 - April 2025
+<br>
+> **Accounting Administrator** - Northern Strands Group of Companies <br>
+> April 2024 - August 2025
+<br>
+> **Teaching Assistant** - University of Saskatchewan, College of Arts and Science, Department of Computer Science and Department of Mathematics and Statistics<br>
+> September 2023 - April 2024
+<br>
+> **Assistant Centre Director** - Code Ninjas Saskatoon<br>
+> June 2022 - August 2023
 
 ### Projects
 
+> **MSc Capstone**
+> Created new functionality for a sexual health education chatbot designed for educators to use in their classrooms. Led the team's scrums. 
+> Completed at UBC under the Canadian SUEDE Society (Capstone partner) and Dr. Nicolai (Capstone faculty mentor)
+<br><br>
 > **Personal Website** <br>
 > Tools used: Quarto, Github Pages, HTML, Quarto Markdown, Github
 <br><br>
@@ -29,3 +58,19 @@ format: html
 > **Recall Note-taking App** <br>
 > Done within a group project class at UofS (CMPT370). Features include: auto-flashcards, priority to-do list, motivational messages, game-ification of tasks.<br>
 > Tools used: JavaFX, Git, Agile, Java, CSS
+
+### Certificates
+
+> **WHMIS 2015** July 2026, expires July 2029 <br>
+> **TCPS CORE-2022 Research Ethics** September 2024<br>
+
+### Services and Volunteering
+
+> **Student Academic Representative** University of British Columbia <br>
+> November 2025 - April 2026
+<br>
+> **Note-taker** University of Saskatchewan <br>
+> September 2021 - April 2025
+<br>
+> **Student Group Executive** University of Saskatchewan <br>
+> January 2022 - April 2025
