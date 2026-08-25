@@ -3,11 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Kara Leier"
+  title: ""
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: CV
 
 format:
   html:
@@ -15,7 +17,6 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
 
 
 

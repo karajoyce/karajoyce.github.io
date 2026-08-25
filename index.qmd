@@ -4,11 +4,20 @@ format: html
 ---
 <img src="me.jpg" alt="Headshot" width="200"/><br>
 
-[CV](about.qmd)
+### About me, professionally
 
-### About
-
-After finishing my undergraduate degrees in computer science and linguistics, I completed a Masters of Data Science with a specialization in Computational Linguistics. Since then I have started working as a Research Analyst for the Vaccine and Infectious Disease Organization (VIDO) on the University of Saskatchewan campus. 
-
-Contact me: <br>
 [LinkedIn](https://linkedin.com/in/kara-joyce-leier)<br>
+
+I hold three degrees: Master of Data Science (Computational Linguistics), B.A. Honours in Linguistics, and B.Sc. 3 year in Computer Science.  \
+In my undergraduate honours thesis I worked with a low-resource language, Dëne Sųłıné. In my masters, I continued to learn about
+what to do with minimal or sparse data. From there, I began working as a Research Analyst at VIDO in Saskatoon, SK. 
+At VIDO, I apply my computational linguistic expertise to answer questions in immunology. Stay tuned :)
+
+**Current position**: Research Analyst @ VIDO \
+Research interests: computational linguistics, interdisciplinary approaches to problems, low-resource research
+
+### About me, personally
+
+I have been learning to crochet recently and really love to try to make various items. My favourites have been keychains, coasters, decor items, and even wearables! \
+Since finishing school, I have been able to pick up my instruments again (guitar and ukulele). My hands are no longer calloused and I will need to regain that strength! I also joined a choir after a 1-year break:)\
+Lastly, I stepped out of my comfort zone and joined a darts league with my dad and his fiance. Wish me luck!

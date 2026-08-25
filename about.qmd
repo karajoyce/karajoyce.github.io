@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Kara Leier"
 format: html
 ---
 
@@ -8,11 +8,11 @@ format: html
 > **Master of Data Science** Computational Linguistics, *University of British Columbia*<br>
 > Grade: 4.33/4.33 <br>
 > Aug. 2025 - Nov. 2026
-<br>
+<br><br>
 > **B.A. Honours** Linguistics, *University of Saskatchewan*<br>
 > Grade: 4.0/4.0 <br>
 > Sept. 2020 - Jun. 2025
-<br>
+<br><br>
 > **B.Sc. 3yr** Computer Science, *University of Saskatchewan*<br>
 > Grade: 4.0/4.0 <br>
 > Sept. 2020 - Jun. 2025
