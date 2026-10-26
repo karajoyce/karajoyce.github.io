@@ -19,7 +19,7 @@ format: html
 
 ### Publications
 
->**(Accepted with revisions, unpublished)** Leier, K (2026). Assigning Semantic Meaning in Dënë Sųłıné: A Comparative Study of Manual and Computational Methods. USURJ, Volume (Issue), Page range.
+>**(Accepted with revisions, unpublished)** Leier, K (2026). Building Semantic Vectors in Dënë Sųłıné: A Comparative Study of Manual and Computational Methods. USURJ, Volume (Issue), Page range.
 
 ### Work Experience
 

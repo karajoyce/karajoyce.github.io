@@ -2,17 +2,16 @@
 title: "Kara Leier"
 format: html
 ---
-<img src="me.jpg" alt="Headshot" width="200"/><br>
+<img src="headshot-flowers.jpeg" alt="Headshot" width="200"/><br>
 
 ### About me, professionally
 
 [LinkedIn](https://linkedin.com/in/kara-joyce-leier)<br>
 
-I hold three degrees: Master of Data Science (Computational Linguistics), B.A. Honours in Linguistics, and B.Sc. 3 year in Computer Science.  \
-In my undergraduate honours thesis I worked with a low-resource language, Dëne Sųłıné, comparing computational and manual methods for assigning semantic meaning to words. \
-In my masters, I continued to learn about what to do with minimal or sparse data, focusing on LLMs, but also how to be authentic and preserve language in the use of LLMs. \
-From there, I began working as a Research Analyst at VIDO in Saskatoon, SK. 
-At VIDO, I apply my computational linguistic expertise to answer questions and guide research in immunology. Stay tuned :)
+I hold three degrees: \
+> Master of Data Science (Computational Linguistics) (MDS-CL), \
+> B.A. Honours in Linguistics (BA Hons), <br> 
+> B.Sc. 3 year in Computer Science (BSc) \
 
 **Current position**: Research Analyst @ VIDO \
 Research interests: computational linguistics, interdisciplinary approaches to problems, low-resource research
@@ -20,5 +19,7 @@ Research interests: computational linguistics, interdisciplinary approaches to p
 ### About me, personally
 
 I have been learning to crochet recently and really love to try to make various items. My favourites have been keychains, coasters, decor items, and even wearables! \
+\
 Since finishing school, I have been able to pick up my instruments again (guitar and ukulele). My hands are no longer calloused and I will need to regain that strength! I also joined a choir after a 1-year break:)\
+\
 Lastly, I stepped out of my comfort zone and joined a darts league with my dad and his fiance. Wish me luck!
